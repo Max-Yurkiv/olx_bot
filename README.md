@@ -11,5 +11,9 @@ TELEGRAM_CHAT_ID="your_chat_id"
 
 Run:
 
+
 python main.py          # runs continuously, checks every 5-10 min(to stop press ctrl+c)
+
+
+
 python main.py --once   # single check, then exit
