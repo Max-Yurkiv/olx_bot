@@ -1,5 +1,9 @@
 Install: pip install curl_cffi requests
+
+
 Create a Telegram bot and copy the token.
+
+
 Set the variables in PowerShell:
 
 TELEGRAM_TOKEN="your_token"
